@@ -1,0 +1,23 @@
+commit 392519658ead82d4d1d7d7362a54caebe52d4884
+Author: Leina Pulgarin <leinapulgarin@MacBook-Pro-de-Macbook.local>
+Date:   Fri Jul 17 14:32:42 2020 -0500
+
+    add new styles
+
+commit d2686fae91c2801a13470f63dc3a38198578751d
+Author: Leina Pulgarin <leinapulgarin@MacBook-Pro-de-Macbook.local>
+Date:   Fri Jul 17 14:27:56 2020 -0500
+
+    Cambie el titulo
+
+commit 01ba16897fd14465b37c9571155287f8153c6997
+Author: Leina Pulgarin <leinapulgarin@MacBook-Pro-de-Macbook.local>
+Date:   Fri Jul 17 14:22:04 2020 -0500
+
+    iniciamos
+
+commit 1c5cb51ced070e4eab5ff937140f50ad22d02c01
+Author: Leina Pulgarin <leinatamayo@gmail.com>
+Date:   Tue Feb 18 12:55:24 2020 -0500
+
+    Este es mi portafolio
